@@ -1,1 +1,1 @@
-# TEC_PRC
+# TEC Programming & Robotics Club
